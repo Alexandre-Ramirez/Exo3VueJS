@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "category": "Éducation",
+      "title": "Portes ouvertes",
+      "description": "Venez découvrir nos locaux et nos formations.",
+      "location": "Bâtiment A",
+      "date": "25 novembre 2024",
+      "time": "08:00",
+      "petsAllowed": true,
+      "organizer": "Directeur"
+    },
+    {
+      "id": 2,
+      "category": "Sport",
+      "title": "Journée ski",
+      "description": "Sortie annuelle à la montagne pour toute la classe.",
+      "location": "Station de ski Les Alpes",
+      "date": "14 février 2025",
+      "time": "08:30",
+      "petsAllowed": false,
+      "organizer": "Professeur EPS"
+    },
+    {
+      "id": 3,
+      "category": "Social",
+      "title": "Semaine spéciale",
+      "description": "Une semaine d'activités thématiques et de projets de groupe.",
+      "location": "Salle polyvalente",
+      "date": "Septembre 2025",
+      "time": "06:00",
+      "petsAllowed": true,
+      "organizer": "Comité d'élèves"
+    }
+  ]
+}
