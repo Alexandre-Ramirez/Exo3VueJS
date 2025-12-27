@@ -6,12 +6,12 @@
 </template>
 
 <script setup>
-// Exercice 2.b: Données statiques initiales
-const event = {
-  time: '18:00',
-  date: '2025-12-10',
-  title: 'Soirée jeux de société',
-}
+defineProps({
+  event: {
+    type: Object,
+    required: true,
+  },
+})
 </script>
 
 <style scoped>
